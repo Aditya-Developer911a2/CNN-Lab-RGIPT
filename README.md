@@ -1,8 +1,8 @@
 # CNN Lab Assignment (RGIPT)
 
 ## Student Details
-Name: Aditya Kumar Singh 
-Roll No.: 24it3003
+Name: Aditya Kumar Singh <br>
+Roll No.: 24it3003 <br>
 Course: B.Tech IT  
 
 ## Tasks 
